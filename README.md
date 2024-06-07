@@ -6,13 +6,13 @@
 
     **1.** Create a _[Prouct Performance Report](https://github.com/NITESHDAHIYAA/Power-BI-Sales-Dashboard-and-Insights)_ 
 
-    **2.** Conduct a comprehensive comparison between _[performance and sales targets](https://github.com/NITESHDAHIYAA/Power-BI-Sales-Dashboard-and-Insights)_
+    **2.** Conduct a comprehensive comparison between _[performance and targets](https://github.com/NITESHDAHIYAA/Power-BI-Sales-Dashboard-and-Insights)_
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Purpose of sales analytics:** empowers users to explore data, uncover patterns, and gain actionable insights for decision-making.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+- **Importance of analyzing sales data:** Dashboards display critical KPIs such as net profit, gross margin, forecast accuracy, and absolute error, allowing for real-time monitoring of key business metrics.
 
-- **Role of dashboards:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- **Role of dashboards:** Provide a centralized platform for accessing and visualizing data from various departments and functions.
 
 
 ## Finance Report :
