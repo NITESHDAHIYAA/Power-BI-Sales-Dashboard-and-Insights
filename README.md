@@ -1,4 +1,4 @@
-# EXCEL-SALES-ANALYTICS
+# Power BI Sales Dasboard and Insights
 ## Sales Report :
 
 
